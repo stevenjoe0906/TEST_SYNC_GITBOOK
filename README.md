@@ -24,6 +24,6 @@ Tako's principles, embedded in its open-source code, are designed to empower use
 
 ## **Our solutions**
 
-{% content-ref url="integration/introduction.md" %}
 [introduction.md](integration/introduction.md)
-{% endcontent-ref %}
+
+At this
